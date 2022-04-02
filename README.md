@@ -1,7 +1,7 @@
 ### <h1 align="center">Hi 👋, I'm Steef</h1>
 <h3 align="center">An analytical and pragmatic backend application developer</h3>
 
-- 👨‍💻 All of my projects are available at [www.steefmin.xyz](www.steefmin.xyz)
+- 👨‍💻 All of my projects are available at [www.steefmin.xyz](https://www.steefmin.xyz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
